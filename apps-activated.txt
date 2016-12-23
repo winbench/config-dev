@@ -7,3 +7,4 @@ Yeoman
 JSHint
 Hugo
 Graphviz
+NuGet
