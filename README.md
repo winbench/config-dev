@@ -10,7 +10,7 @@ and initialize the configuration.
 
 **Warning:** To build the Bench system, there are more prerequisites necessary
 then this configuration describes.
-To build Bench and its documentation you need at least [Microsoft .NET Framework 4.5 SDK][.NET_SDK]
+To build Bench and its documentation you need at least [Microsoft .NET Framework 4.5 SDK][.NET-SDK]
 with _MSBuild_ or [Microsoft Visual Studio 2015][VS], and the [Sandcastle Help File Builder][SHFB].
 
 ## License
