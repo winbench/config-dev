@@ -1,0 +1,9 @@
+Git
+VSCode
+Npm
+Gulp
+Bower
+Yeoman
+JSHint
+Hugo
+Graphviz
