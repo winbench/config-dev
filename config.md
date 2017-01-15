@@ -32,7 +32,7 @@ With the following properties you can control the appearance of the launchers fo
 With the following properties you can control certain behavior of the Bench Dashboard.
 
 * AutoUpdateCheck: `true`
-* DashboardSetupAppListColumns: `Order`, `Label`, `Version`, `Active`, `Deactivated`, `Status`, `Typ`, `Comment`
+* DashboardSetupAppListColumns: `Order`, `Category`, `Label`, `Version`, `Active`, `Deactivated`, `Status`, `Typ`, `Comment`
 
 ## Project Archive
 
