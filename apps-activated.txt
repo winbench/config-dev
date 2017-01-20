@@ -8,3 +8,5 @@ Bench.Yeoman
 Bench.Hugo
 Bench.Graphviz
 Bench.JSHint
+Bench.Notepad2
+Bench.MarkdownEdit
