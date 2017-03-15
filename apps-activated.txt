@@ -3,11 +3,10 @@ Bench.Npm
 Bench.NuGet
 Bench.VSCode
 Bench.Gulp
-Bench.Bower
-Bench.Yeoman
 Bench.Hugo
 Bench.Graphviz
 Bench.JSHint
 Bench.Notepad2
 Bench.MarkdownEdit
 Bench.ResourceHacker
+Bench.JSBeautify
