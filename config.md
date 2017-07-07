@@ -28,8 +28,8 @@ only on systems which support 64Bit code.
 With the following dictionary property, you can add additional app libraries.
 
 * AppLibs:
-    + `core`: `github:mastersign/bench-apps-core`
-    + `default`: `github:mastersign/bench-apps-default`
+    + `core`: `$BenchRoot$/applibs/core`
+    + `default`: `$BenchRoot$/applibs/default`
 
 ## Quick Access
 
