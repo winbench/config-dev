@@ -7,6 +7,5 @@ Bench.Hugo
 Bench.Graphviz
 Bench.JSHint
 Bench.Notepad2
-Bench.MarkdownEdit
 Bench.ResourceHacker
 Bench.JSBeautify
