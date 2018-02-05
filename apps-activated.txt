@@ -3,6 +3,7 @@ Bench.Npm
 Bench.NuGet
 Bench.VSCode
 Bench.Gulp
+Bench.Yarn
 Bench.Hugo
 Bench.Graphviz
 Bench.JSHint
